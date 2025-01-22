@@ -1,2 +1,0 @@
-C:\Users\ghfak\Desktop\Sinky Bypasser\bin\Release\net8.0\win-x64\publish\Hello World.pdb
-C:\Users\ghfak\Desktop\Sinky Bypasser\bin\Release\net8.0\win-x64\publish\Hello World.exe
