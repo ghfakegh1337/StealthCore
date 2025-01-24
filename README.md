@@ -17,7 +17,7 @@ If you have any problems or have any questions, just write to me in private mess
 
 ### Status
 
-Temporarily out of service because the developer of superiority has not yet released an update for the latest patch 2574 🟡
+🟡 Temporarily out of service because the developer of superiority has not yet released an update for the latest patch 2574.
 
 ### Authors
 
