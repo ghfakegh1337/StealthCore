@@ -22,6 +22,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Then go to the folder that the program opened (Setup.exe) and copy the path to the folder.
 - Go back to the eac bypass program and click on the pink button to select the dll for injection.
 - Paste the path of the folder that you have already copied, select the file with the .dll extension.
+#### Clearing
+- To perform the cleaning, you just need to register "clear" in the program Setup.exe and everything will clear up for you.
 
 ### Help
 
