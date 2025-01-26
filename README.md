@@ -14,7 +14,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Getting started
 
 - Download the file from the releases and put it on your USB stick.
-- Reinstall Windows to clean everything is not necessary (this is very important).
+- Reinstall Windows to clean everything (this is very important).
 - Download Alkad Rust
 - Run the program as an administrator and enter the activation key "KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ".
 - Then you will have a folder with the .exe file open it and you will have the Eac Bypass program.
