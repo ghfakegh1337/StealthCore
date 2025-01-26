@@ -23,7 +23,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Go back to the eac bypass program and click on the pink button to select the dll for injection.
 - Paste the path of the folder that you have already copied, select the file with the .dll extension.
 #### Clearing
-- To perform the cleaning, you just need to register "clean" in the program. Setup.exe and everything will clear up for you, then the program will close, then pull out your USB flash drive from your PC and you can check for cheats.
+- To perform the cleaning, you just need to register in the program "clean". Setup.exe and everything will clear up for you, then the program will close, after which take out your USB flash drive from the computer and you will be able to check.
 
 ### Help
 
