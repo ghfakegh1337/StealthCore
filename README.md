@@ -11,7 +11,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Safe removal of these programs.
 - Cleaning the PC from logs and Google Chrome(History, Recent tabs).
 
-#№# What's new
+### What's new
 
 * 26 January 2025
   * 🟢 Updated for the latest game patch (2574).
