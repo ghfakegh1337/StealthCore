@@ -36,7 +36,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 
-🟢 Updated for the latest game patch (2574).
+🟢 Works (2574).
 
 ### Authors
 
