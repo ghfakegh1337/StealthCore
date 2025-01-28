@@ -18,7 +18,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * 🟡 Partial Recode.
 
 * 26 January 2025
-  * 🟢 Updated for the latest game patch (2574).
+  * 🟢 Updated for the latest game patch (Alkad - 2574).
 
 ### Getting started
 
