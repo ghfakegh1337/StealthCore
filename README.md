@@ -31,6 +31,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Then go to the folder that the program opened (Setup.exe) and copy the path to the folder.
 - Go back to the eac bypass program and click on the pink button to select the dll for injection.
 - Paste the path of the folder that you have already copied, select the file with the .dll extension.
+[Rust Guide](https://youtu.be/p2iR4KVkRE4)
+
 #### Clearing
 - To perform the cleaning, you just need to write in the program (Setup.exe) "clear". Setup.exe It will clear everything of cheats and it will close.
 
