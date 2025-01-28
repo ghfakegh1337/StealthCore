@@ -29,8 +29,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Choose which game you will play.
 - Then you will have a folder with executable files, open "Extreme Injector" or "EacBypass" depending on which game you have chosen.
 - Next, I recommend watching the guides.
-- [Rust Guide](https://youtu.be/p2iR4KVkRE4)
-- [CS2 Guide](https://youtu.be/sTAiGOID2XY)
+- [Rust Guide](https://youtu.be/p2iR4KVkRE4) / [CS2 Guide](https://youtu.be/sTAiGOID2XY)
+- Remove the USB drive from the PC.
 
 #### Clearing
 - To perform the cleaning, you just need to write in the program (Setup.exe) "clear". Setup.exe It will clear everything of cheats and it will close.
