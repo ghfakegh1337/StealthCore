@@ -49,4 +49,4 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - ghfakegh1337 - Program Developer
 - [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2
 - [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Alkad Eac Bypass
-- [deadbull](vacban.wtf/members/37) - Superiority Cheat Rust
+- deadbull - Superiority Cheat Rust
