@@ -40,8 +40,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 
-Alkad Rust (superiority) - 🟢 Works (2574).
-CS2 (osiris) - 🟢 Works.
+- Alkad Rust (superiority) - 🟢 Works (2574).
+- CS2 (osiris) - 🟢 Works.
 
 ### Authors
 
