@@ -24,13 +24,11 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 - Download the file from the releases and put it on your USB stick.
 - Reinstall Windows to clean everything (this is very important).
-- Download Alkad Rust
+- Download Alkad Rust/CS2
 - Run the program as an administrator and enter the activation key "KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ".
-- Then you will have a folder with the .exe file open it and you will have the Eac Bypass program.
-- Click on the blue button to select the game folder and select the folder where Rust is located, Rust will open for you.
-- Then go to the folder that the program opened (Setup.exe) and copy the path to the folder.
-- Go back to the eac bypass program and click on the pink button to select the dll for injection.
-- Paste the path of the folder that you have already copied, select the file with the .dll extension.
+- Choose which game you will play.
+- Then you will have a folder with executable files, open "Extreme Injector" or "EacBypass" depending on which game you have chosen.
+- Next, I recommend watching the guides.
 - [Rust Guide](https://youtu.be/p2iR4KVkRE4)
 - [CS2 Guide](https://youtu.be/sTAiGOID2XY)
 
