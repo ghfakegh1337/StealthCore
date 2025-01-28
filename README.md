@@ -7,7 +7,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Features
 
-- Downloading programs (eac bypass, superiority) safely.
+- Downloading programs safely.
 - Safe removal of these programs.
 - Cleaning the PC from logs and Google Chrome(History, Recent tabs).
 
@@ -40,7 +40,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 
-🟢 Works (2574).
+Alkad Rust (superiority) - 🟢 Works (2574).
+CS2 (osiris) - 🟢 Works.
 
 ### Authors
 
