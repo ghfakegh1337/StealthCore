@@ -51,7 +51,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Authors
 
-- ghfakegh1337 - Program Developer
-- [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2
-- [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Alkad Eac Bypass
-- deadbull - Superiority Cheat Rust
+- ghfakegh1337 - Program Developer.
+- [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
+- [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Alkad Eac Bypass.
+- deadbull - Superiority Cheat Rust.
+- [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
