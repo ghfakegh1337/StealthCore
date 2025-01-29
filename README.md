@@ -13,6 +13,11 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### What's new
 
+* 29 January 2025
+  * 🟢 The color of the console has been changed
+  * 🟢 Added a choice between "clear" and "folder"
+  * 🟢 Added a setting for "extreme injector" (cs2)
+
 * 28 January 2025
   * 🟢 Added CS2 + Osiris.
   * 🟡 Partial Recode.
