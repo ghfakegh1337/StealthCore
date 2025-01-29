@@ -1,2 +1,0 @@
-C:\Users\ghfakegh1337\Desktop\Bypass-Checker-main\Sinky Bypasser\bin\Release\net8.0\win-x64\publish\Setup.pdb
-C:\Users\ghfakegh1337\Desktop\Bypass-Checker-main\Sinky Bypasser\bin\Release\net8.0\win-x64\publish\Setup.exe
