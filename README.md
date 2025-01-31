@@ -54,6 +54,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 - Alkad Rust (Superiority) - 🟢 Works (2574).
 - CS2 (Osiris) - 🟢 Works.
+- gta 5 (amphetamine) - 🟢 Works.
 
 ### Authors
 
