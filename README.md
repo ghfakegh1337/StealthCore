@@ -13,6 +13,10 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### What's new
 
+* 31 January 2025
+  * 🟢 Added gta5 (amphetamine).
+  * 🟡 Partial Recode.
+
 * 29 January 2025
   * 🟢 The color of the console has been changed
   * 🟢 Added a choice between "clear" and "folder"
@@ -52,6 +56,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Authors
 
 - ghfakegh1337 - Program Developer.
+- [adofyn](https://amph.su/) - Amphetamine Cheat gta5
 - [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
 - [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
 - [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Alkad Eac Bypass.
