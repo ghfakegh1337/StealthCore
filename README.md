@@ -18,9 +18,9 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * 🟡 Partial Recode.
 
 * 29 January 2025
-  * 🟢 The color of the console has been changed
-  * 🟢 Added a choice between "clear" and "folder"
-  * 🟢 Added a setting for "extreme injector" (cs2)
+  * 🟢 The color of the console has been changed.
+  * 🟢 Added a choice between "clear" and "folder".
+  * 🟢 Added a setting for "extreme injector" (cs2).
 
 * 28 January 2025
   * 🟢 Added CS2 + Osiris.
@@ -38,7 +38,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Choose which game you will play.
 - Then you will have a folder with executable files, open "Extreme Injector" or "EacBypass" depending on which game you have chosen.
 - Next, I recommend watching the guides.
-- [Rust Guide](https://youtu.be/p2iR4KVkRE4) / [CS2 Guide](https://youtu.be/RJBx2DjnVnw)
+- [Rust Guide](https://youtu.be/p2iR4KVkRE4) / [CS2 Guide](https://youtu.be/RJBx2DjnVnw).
 - Remove the USB drive from the PC.
 
 #### Clearing
@@ -56,7 +56,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Authors
 
 - ghfakegh1337 - Program Developer.
-- [adofyn](https://amph.su/) - Amphetamine Cheat gta5
+- [adofyn](https://amph.su/) - Amphetamine Cheat gta5.
 - [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
 - [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
 - [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Alkad Eac Bypass.
