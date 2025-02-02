@@ -40,7 +40,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Choose which game you will play.
 - Then you will have a folder with executable files, open "Extreme Injector" or "EacBypass" depending on which game you have chosen.
 - Next, I recommend watching the guides.
-- [Rust Guide](https://youtu.be/p2iR4KVkRE4) / [CS2 Guide](https://youtu.be/RJBx2DjnVnw).
+- [Rust Guide](https://youtu.be/Uy-gi4wGzJQ) / [CS2 Guide](https://youtu.be/aQ88_AENRp4).
 - Remove the USB drive from the PC.
 
 #### Clearing
