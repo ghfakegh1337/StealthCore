@@ -57,8 +57,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Authors
 
-- ghfakegh1337 - Program Developer.
-- ghfakegh1337 - New alkad eac bypass (recode spacecollapse).
+- ghfakegh1337 - Program Developer, New alkad eac bypass (spacecollapse recode).
 - [adofyn](https://amph.su/) - Amphetamine Cheat gta5.
 - [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
 - [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
