@@ -13,8 +13,11 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### What's new
 
+* 3 February 2025
+  * 🟢 Added new eac bypass.
+
 * 2 February 2025
-  * 🟢 Added Self Destruct
+  * 🟢 Added Self Destruct.
 
 * 31 January 2025
   * 🟢 Added gta5 (amphetamine).
@@ -26,10 +29,6 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * 🟢 The color of the console has been changed.
   * 🟢 Added a choice between "clear" and "folder".
   * 🟢 Added a setting for "extreme injector" (cs2).
-
-* 28 January 2025
-  * 🟢 Added CS2 + Osiris.
-  * 🟡 Partial Recode.
 
 ### Getting started
 
@@ -59,8 +58,9 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Authors
 
 - ghfakegh1337 - Program Developer.
+- ghfakegh1337 - New alkad eac bypass (recode spacecollapse).
 - [adofyn](https://amph.su/) - Amphetamine Cheat gta5.
 - [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
 - [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
-- [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Alkad Eac Bypass.
+- [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Old alkad eac Bypass.
 - deadbull - Superiority Cheat Rust.
