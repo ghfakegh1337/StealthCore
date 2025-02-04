@@ -14,8 +14,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### What's new
 
 * 4 February 2025
-  * 🟡 Bug fix.
   * 🟢 Added new nvidia control panel cleaning.
+  * 🟡 Bug fix.
 
 * 3 February 2025
   * 🟢 Added new eac bypass.
