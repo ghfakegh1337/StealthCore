@@ -13,6 +13,10 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### What's new
 
+* 4 February 2025
+  * 🟡 Bug fix.
+  * 🟢 Added new nvidia control panel cleaning.
+
 * 3 February 2025
   * 🟢 Added new eac bypass.
 
@@ -24,11 +28,6 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * 🟡 Partial Recode.
   * 🟡 Bug fix (gta5).
   * 🟡 The config system has been redesigned (Alkad Rust).
-
-* 29 January 2025
-  * 🟢 The color of the console has been changed.
-  * 🟢 Added a choice between "clear" and "folder".
-  * 🟢 Added a setting for "extreme injector" (cs2).
 
 ### Getting started
 
