@@ -16,6 +16,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 * 5 February 2025
   * 🟢 Added ResetNetworkUsageStats.
   * 🔴 Random name for the main folder has been removed.
+  * 🟡 Osiris updated.
       
 * 4 February 2025
   * 🟢 Added new nvidia control panel cleaning.
@@ -49,7 +50,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Status
 
 - Alkad Rust (Superiority) - 🟢 Works (2574).
-- CS2 (Osiris) - 🟡 Updated.
+- CS2 (Osiris) - 🟢 Works.
 - gta 5 (amphetamine) - 🟢 Works.
 
 ### Authors
