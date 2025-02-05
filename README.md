@@ -27,12 +27,6 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 * 2 February 2025
   * 🟢 Added Self Destruct.
 
-* 31 January 2025
-  * 🟢 Added gta5 (amphetamine).
-  * 🟡 Partial Recode.
-  * 🟡 Bug fix (gta5).
-  * 🟡 The config system has been redesigned (Alkad Rust).
-
 ### Getting started
 
 - Download the file from the releases and put it on your USB stick.
