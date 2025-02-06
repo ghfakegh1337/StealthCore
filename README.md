@@ -32,7 +32,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 - Download the file from the releases and put it on your USB stick.
 - Reinstall Windows to clean everything (this is very important).
-- Download Alkad Rust/CS2
+- Download Alkad Rust/CS2.
 - Run the program as an administrator and enter the activation key "KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ".
 - Choose which game you will play.
 - Then you will have a folder with executable files, open "Extreme Injector" or "EacBypass" depending on which game you have chosen.
