@@ -49,7 +49,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 
-- Alkad Rust (Superiority) - 🟢 Works (2574).
+- Alkad Rust (Superiority) - 🟡 Updated (2580).
 - CS2 (Osiris) - 🟢 Works.
 - gta 5 (amphetamine) - 🟢 Works.
 
