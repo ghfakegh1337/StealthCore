@@ -61,4 +61,4 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
 - [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
 - [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Old alkad eac Bypass.
-- deadbull - Superiority Cheat Rust.
+- [deadbull](https://vacban.wtf/threads/83279/#) - Superiority Cheat Rust.
