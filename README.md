@@ -13,6 +13,11 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### What's new
 
+* 10 February 2025
+  * 🟡🔴 switching from Alkad to Rusticland (and all the functions with bypasses have been removed.).
+  * 🔴 Сs2 support has been removed because there will be a new project.
+  * 🟢 Superiority updated.
+
 * 5 February 2025
   * 🟢 Added ResetNetworkUsageStats.
   * 🔴 Random name for the main folder has been removed.
@@ -49,8 +54,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 
-- Alkad Rust (Superiority) - 🟡 Updated (2580).
-- Alkad Eac Bypass - 🟡 Updated (2580).
+- Rusticland Rust (Superiority) - 🟢 Work (2580).
 - CS2 (Osiris) - 🟢 Works.
 - gta 5 (amphetamine) - 🟢 Works.
 
