@@ -14,7 +14,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### What's new
 
 * 11 February 2025
-  * 🟢 My second [StealthStrike](https://github.com/ghfakegh1337/StealthStrike) project has appeared
+  * 🟢 My second [StealthStrike](https://github.com/ghfakegh1337/StealthStrike) project has appeared.
 
 * 10 February 2025
   * 🟡🔴 switching from Alkad to Rusticland (and all the functions with bypasses have been removed.).
