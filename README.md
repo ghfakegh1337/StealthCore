@@ -58,7 +58,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Status
 
 - Rusticland Rust (Superiority) - 🟢 Work (2580).
-- gta 5 (amphetamine) - 🟢 Works.
+- Gta5 (Amphetamine) - 🟢 Works.
 
 ### Authors
 
