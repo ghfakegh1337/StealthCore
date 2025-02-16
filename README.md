@@ -38,15 +38,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Getting started
 
-- Download the file from the releases and put it on your USB stick.
-- Reinstall Windows to clean everything (this is very important).
-- Download Alkad Rust/CS2.
-- Run the program as an administrator and enter the activation key "KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ".
-- Choose which game you will play.
-- Then you will have a folder with executable files, open "Extreme Injector" or "EacBypass" depending on which game you have chosen.
-- Next, I recommend watching the guides.
-- [Rust Guide](https://youtu.be/Uy-gi4wGzJQ) / [CS2 Guide](https://youtu.be/aQ88_AENRp4).
-- Remove the USB drive from the PC.
+- Soon.
 
 #### Clearing
 - To perform the cleaning, you just need to write in the program (Setup.exe) "clear". Setup.exe It will clear everything of cheats and it will close.
