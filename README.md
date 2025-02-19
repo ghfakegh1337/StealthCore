@@ -1,18 +1,15 @@
 ## StealthCore
 
 ### Description
-
 Stealth Core this program is designed to bypass cheat checks. \
 It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Features
-
 - Downloading programs safely.
 - Safe removal of these programs.
 - Cleaning the PC from logs and Google Chrome(History, Recent tabs).
 
 ### What's new
-
 * 11 February 2025
   * 🟢 My second [StealthStrike](https://github.com/ghfakegh1337/StealthStrike) project has appeared.
 
@@ -36,24 +33,23 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 * 2 February 2025
   * 🟢 Added Self Destruct.
 
-### Getting started
+### Key
+  * KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ
 
+### Getting started
 - Soon.
 
 #### Clearing
 - To perform the cleaning, you just need to write in the program (Setup.exe) "clear". Setup.exe It will clear everything of cheats and it will close.
 
 ### Help
-
 - If you have any problems or have any questions, just write to me in private messages on Discord: ghfakegh1337 or Telegram: @ghfakegh1337.
 
 ### Status
-
 - Rusticland Rust (Superiority) - 🟢 Work (2580).
 - Gta5 (Amphetamine) - 🟢 Works.
 
 ### Authors
-
 - ghfakegh1337 - Program Developer.
 - [adofyn](https://discord.gg/FTJFDaM6) - Amidone Cheat Gta5.
 - [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
