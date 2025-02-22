@@ -47,7 +47,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 - Rusticland Rust (Superiority) - 🟢 Work (2580).
-- Gta5 (Amphetamine) - 🟢 Works.
+- Gta5 (Amphetamine) - 🔴 The amph project has been renamed and the cheat is no more.
 
 ### Authors
 - ghfakegh1337 - Program Developer.
