@@ -11,6 +11,10 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### What's new
 * 11 February 2025
+  * 🟢 Added closing the program without cleaning
+  * 🟡 Partial recode
+
+* 11 February 2025
   * 🟢 My second [StealthStrike](https://github.com/ghfakegh1337/StealthStrike) project has appeared.
 
 * 10 February 2025
