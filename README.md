@@ -38,7 +38,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * 🟢 Added Self Destruct.
 
 ### Key
-  * KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ
+  * KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ.
 
 ### Getting started
 - Soon.
