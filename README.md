@@ -10,6 +10,9 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Cleaning the PC from logs and Google Chrome(History, Recent tabs).
 
 ### What's new
+* 26 February 2025
+  * 🟡 Partial recode.
+
 * 25 February 2025
   * 🟢 Added closing the program without cleaning.
   * 🔴 Сleaning of google chrome was removed (as it broke it and because of this it worked very slowly).
