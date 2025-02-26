@@ -12,6 +12,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### What's new
 * 25 February 2025
   * 🟢 Added closing the program without cleaning.
+  * 🔴 Сleaning of google chrome was removed (as it broke it and because of this it worked very slowly).
   * 🟡 Partial recode.
 
 * 11 February 2025
