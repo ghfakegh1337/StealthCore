@@ -10,6 +10,9 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Cleaning the PC from logs and Google Chrome(History, Recent tabs).
 
 ### What's new
+* 27 February 2025
+  * 🔴🟢 Extreme injector has been removed and replaced (now you just need to write "inject" to load the cheat into the process).
+
 * 26 February 2025
   * 🟡 Partial recode.
 
