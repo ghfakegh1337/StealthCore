@@ -12,6 +12,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### What's new
 * 27 February 2025
   * 🟡 Extreme injector has been removed and replaced (now you just need to write "inject" to load the cheat into the process).
+  * 🟡 Partial recode.
 
 * 26 February 2025
   * 🟡 Partial recode.
