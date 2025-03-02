@@ -1,7 +1,7 @@
 ## StealthCore
 
 ### Description
-Stealth Core this program is designed to bypass cheat checks. \
+StealthCore this program is designed to bypass cheat checks. \
 It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Features
