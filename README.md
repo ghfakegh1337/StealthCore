@@ -49,7 +49,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * KP69Z-O2V6U-YU1SN-XLLRU-KAGPZ.
 
 ### Getting started
-- Download dotnet 9 from this link: https://dotnet.microsoft.com/en-us/download/dotnet/9.0.
+- Download dotnet 9 from this [link](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
 - After that you can just download the latest program from the releases and just run it.
 
 #### Clearing
