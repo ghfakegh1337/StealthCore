@@ -63,7 +63,8 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 
 ### Status
 - Rusticland Rust (Superiority) - 🟡 Updated (2582).
-- Gta5 (Amidone) - 🔴 When the release is released, I will definitely add.
+- GTA5 AltV (Amidone) - 🔴 When the release is released, I will definitely add.
+- GTA5 AltV (NightFall) - 🟢 Work.
 
 ### Authors
 - ghfakegh1337 - Program Developer.
