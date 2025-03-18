@@ -7,7 +7,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Features
 - Downloading programs safely.
 - Safe removal of these programs.
-- Cleaning the PC from logs and Google Chrome(History, Recent tabs).
+- Cleaning the PC from logs.
 
 ### What's new
 * 17 March 2025
