@@ -70,7 +70,4 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - ghfakegh1337 - Program Developer.
 - [itspxel](https://nfcheats.com/) - NightFall Cheat GTA5 (AltV).
 - [adofyn](https://discord.gg/FTJFDaM6) - Amidone Cheat GTA5 (AltV).
-- [master131](https://github.com/master131/ExtremeInjector) - Extreme Injector.
-- [danielkrupinski](https://github.com/danielkrupinski/Osiris) - Osiris Cheat CS2.
-- [spacecollapse](https://github.com/spacecollapse/alkad-eac-bypass) - Old Alkad Eac Bypass.
 - [deadbull](https://vacban.wtf/threads/83279/#) - Superiority Cheat Rust.
