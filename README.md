@@ -29,7 +29,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
   * 🟢 My second [StealthStrike](https://github.com/ghfakegh1337/StealthStrike) project has appeared.
 
 * 10 February 2025
-  * 🟡🔴 Switching from Alkad to Rusticland (and all the functions with bypasses have been removed.).
+  * 🟡🔴 Switching from Alkad to Rusticland (and all the functions with bypasses have been removed).
   * 🔴 Сs2 support has been removed because there will be a new project.
   * 🟢 Superiority updated.
 
