@@ -36,7 +36,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 * 5 February 2025
   * 🟢 Added ResetNetworkUsageStats.
   * 🔴 Random name for the main folder has been removed.
-  * 🟡 cs2 (Osiris) updated.
+  * 🟡 Cs2 (Osiris) updated.
       
 * 4 February 2025
   * 🟢 Added new nvidia control panel cleaning.
