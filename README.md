@@ -10,6 +10,9 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - Cleaning the PC from logs.
 
 ### What's new
+* 21 March 2025
+  * 🟢 Added script cleaning in GTA5 (NightFall).
+
 * 17 March 2025
   * 🟢 Added GTA5 (NightFall).
 
