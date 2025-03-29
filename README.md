@@ -72,5 +72,5 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 ### Authors
 - ghfakegh1337 - Program Developer.
 - [itspxel](https://nfcheats.com/) - NightFall Cheat GTA5 (AltV).
-- [adofyn & alda](https://discord.gg/FTJFDaM6) - Amidone Cheat GTA5 (AltV).
+- [adofyn & alda](https://discord.gg/ndQNEHmB) - Amidone Cheat GTA5 (AltV).
 - [deadbull](https://vacban.wtf/threads/83279/#) - Superiority Cheat Rust.
