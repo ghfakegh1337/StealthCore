@@ -65,7 +65,7 @@ It was created with the aim of improving my C# skills (since I'm new to this).
 - If you have any problems or have any questions, just write to me in private messages on Discord: ghfakegh1337 or Telegram: @ghfakegh1337.
 
 ### Status
-- Rusticland Rust (Superiority) - 🟡 Updated (2582).
+- Rusticland Rust (Superiority) - 🟡 Updated (2585).
 - GTA5 AltV (Amidone) - 🔴 When the release is released, I will definitely add.
 - GTA5 AltV (NightFall) - 🟢 Work.
 
